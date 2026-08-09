@@ -9,7 +9,10 @@ DetectiveOffice - https://www.fab.com/listings/82fea2b7-ffde-4a9f-9ec7-17faa7504
 
 ## Audio
 https://sonniss.com/gameaudiogdc/
+
 https://www.musehub.com/loops-and-audio/essential-sound-effects
+
+https://gameaudioimplementation.com/sound-library
 
 ## Systems
 Interaction System - https://www.fab.com/listings/8444141d-69b0-4ab3-a5d3-7d2bda70983a
